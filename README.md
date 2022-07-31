@@ -121,9 +121,25 @@ Check out [_variables.less](https://github.com/sButtons/sbuttons/blob/master/src
 
 To use sButtons in your project, just add the classes of sButton you want to either `<button>` or `<a>` tags.
 
+<table>
+<tr>
+<td> Source </td> <td> Preview </td>
+</tr>
+<tr>
+<td> 
+
 ```html
-<button class="sbtn basic-btn blue-btn">Button</button>
+<button class="sbtn basic-btn blue-btn block-btn">Button</button>
 ```
+
+</td>
+<td>
+  
+  <img src="./screen_shots/sbtn basic-btn blue-btn.png" width="100"/>
+  
+</td>
+</tr>
+</table>
 
 You can find all classes mentioned in our [Examples](https://sbuttons.netlify.app/examples) page.
 
