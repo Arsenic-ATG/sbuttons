@@ -413,27 +413,11 @@ sButtons is compatible with dark mode. It either works by adding dark-mode class
 
 By adding `data-theme="dark"` to a parent element like the body or a div element, the button will automatically be in dark mode.
 
-<table>
-<tr>
-<td> Preview </td> <td> Source </td> 
-</tr>
-<tr>
-<td>
-  
-  <img src="./screen_shots/sbtn dashed-btn black-btn dark-mode.gif" width="250" height="80"/>
-  
-</td>
-<td> 
-
 ```html
 <div data-theme="dark">
   <button class="sbtn dashed-btn black-btn">Dark-Mode</button>
 </div>
 ```
-
-</td>
-</tr>
-</table>
 
 Note: `data-theme="dark"` attribute does not give dark mode styling to the container element, you have to do that yourself. It only toggles sButtons to be in dark mode.
 
