@@ -180,7 +180,7 @@ To make a `<button>` or `<a>` tag disabled, add `disabled-btn` class as shown be
 <tr>
 <td>
   
-  <img src="./screen_shots/sbtn basic-btn blue-btn disabled-btn.png" width="250" height="80"/>
+  <img src="./screen_shots/sbtn basic-btn blue-btn disabled-btn.gif" width="250" height="80"/>
   
 </td>
 <td> 
@@ -395,7 +395,7 @@ sButtons is compatible with dark mode. It either works by adding dark-mode class
 <tr>
 <td>
   
-  <img src="./screen_shots/sbtn dashed-btn black-btn dark-mode.png" width="250" height="80"/>
+  <img src="./screen_shots/sbtn dashed-btn black-btn dark-mode.gif" width="250" height="80"/>
   
 </td>
 <td> 
@@ -420,7 +420,7 @@ By adding `data-theme="dark"` to a parent element like the body or a div element
 <tr>
 <td>
   
-  <img src="./screen_shots/sbtn dashed-btn black-btn dark-mode.png" width="250" height="80"/>
+  <img src="./screen_shots/sbtn dashed-btn black-btn dark-mode.gif" width="250" height="80"/>
   
 </td>
 <td> 
