@@ -210,7 +210,7 @@ The `icon-btn` class alone gives you a default button with no background color a
 <tr>
 <td>
   
-  <img src="./screen_shots/sbtn icon-btn.png" width="250" height="80"/>
+  <img src="./screen_shots/sbtn icon-btn.gif" width="250" height="80"/>
   
 </td>
 <td> 
